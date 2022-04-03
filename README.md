@@ -1,4 +1,5 @@
-# Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+<img src="https://media1.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="1000px">
+
 ## 🚀 Über mich
 Neugierig, lernwillig und engagiert - beschreiben mich am besten. Zur Zeit beschäftigen mich Nachhaltigkeit, Continuous Integration und Agilität am meisten. Ich bin Webentwickler mit besonderen Stärken in TYPO3, Javascript, SCSS und seit neuestem PHP. Auf Grund meines Studiums sind Anforderungsermittlung, User Stories sowie Projektmanagement und UX und UI Design mir keine Fremdworte - im Gegenteil - auch hier findet sich meine Passion und Mission wieder.
 
