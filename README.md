@@ -36,8 +36,8 @@ Neugierig, lernwillig und engagiert - beschreiben mich am besten. Zur Zeit besch
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
 
 ## 📈 Übersicht
-[![Joels's GitHub stats](https://github-readme-stats.vercel.app/api?username=inf166&show_icons=true&hide_title=true)](https://github.com/Inf166/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inf166&layout=compact&custom_title=Genutzte%20Sprachen)](https://github.com/Inf166/)
+[![Joels's GitHub stats](https://github-readme-stats.vercel.app/api?username=inf166&show_icons=true&hide_title=true&locale=de&hide_rank=true)](https://github.com/Inf166/)
 
 ## 🔗 Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.maispace.de/)
