@@ -1,11 +1,6 @@
-<img src="https://media1.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="1000px">
+## 🚀 About me
+Curious, eager to learn and committed - describe me best. At the moment, sustainability, continuous integration and agility keep me most busy. I am a web developer with particular strengths in TYPO3, Javascript, SCSS and most recently PHP. Due to my studies, requirements gathering, user stories, project management and UX and UI design are not foreign words to me - on the contrary - my passion and mission can be found here as well.
 
-## 🚀 Über mich
-Neugierig, lernwillig und engagiert - beschreiben mich am besten. Zur Zeit beschäftigen mich Nachhaltigkeit, Continuous Integration und Agilität am meisten. Ich bin Webentwickler mit besonderen Stärken in TYPO3, Javascript, SCSS und seit neuestem PHP. Auf Grund meines Studiums sind Anforderungsermittlung, User Stories sowie Projektmanagement und UX und UI Design mir keine Fremdworte - im Gegenteil - auch hier findet sich meine Passion und Mission wieder.
-
-## 🏅 Errungenschaften
--   📝 **Abitur mit Informatik Leistungskurs** an dem Europagymnasium Kerpen (Juli 2016)
--   📝 vorraussichtlich **Bachelor Medieninformatik** an der TH Köln (September 2022)
 ## 🛠️ Skills
 ### Requirement Engineering
 ![Miro](https://img.shields.io/static/v1?style=for-the-badge&message=Miro&color=050038&logo=Miro&logoColor=FFFFFF&label=)
