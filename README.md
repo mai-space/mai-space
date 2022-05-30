@@ -1,7 +1,43 @@
+<img alt="hello there"  src="assets/images/Hello-there.png">
+
+<p align="center">
+    <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev">
+        <img alt="https://badges.pufler.dev/visits/inf166/inf166?style=for-the-badge&color=blue"  src="https://badges.pufler.dev/visits/inf166/inf166?style=for-the-badge&color=blue">
+    </a>
+    <a href="https://github.com/inf166?tab=followers">
+        <img alt="followers"   title="Follow me on Github"   src="https://custom-icon-badges.herokuapp.com/github/followers/inf166?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
+    <a href="https://github.com/inf166?tab=repositories&sort=stargazers">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/inf166"/>
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev">
+        <img alt="https://badges.pufler.dev/years/inf166?style=for-the-badge&color=yellow"         src="https://badges.pufler.dev/years/inf166?style=for-the-badge&color=yellow">
+    </a>
+    <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev">
+        <img alt="https://badges.pufler.dev/repos/inf166?style=for-the-badge&color=green"          src="https://badges.pufler.dev/repos/inf166?style=for-the-badge&color=green">
+    </a>
+</p>
+
 ## 🚀 About me
 Curious, eager to learn and committed - describe me best. At the moment, sustainability, continuous integration and agility keep me most busy. I am a web developer with particular strengths in TYPO3, Javascript, SCSS and most recently PHP. Due to my studies, requirements gathering, user stories, project management and UX and UI design are not foreign words to me - on the contrary - my passion and mission can be found here as well.
 
-## 🛠️ Skills
+## 📘 My Resume [WIP]
+<p>
+    <img src="https://github-readme-linkedin-ebon.vercel.app/experience?username=joel-maximilian-mai" />
+</p>
+<p>
+    <img src="https://github-readme-linkedin-ebon.vercel.app/education?username=joel-maximilian-mai" />
+</p>
+<p>
+    <a href="" alt="">
+        <img alt="https://img.shields.io/badge/Download%20my%20Resume%20here-FF0000.svg?logo=adobe&logoColor=white" src="https://img.shields.io/badge/Download%20my%20Resume%20here-FF0000.svg?logo=adobe&logoColor=white">
+    </a>
+</p>
+
+## 🛠️ My Skills
 ### Requirement Engineering
 ![Miro](https://img.shields.io/static/v1?style=for-the-badge&message=Miro&color=050038&logo=Miro&logoColor=FFFFFF&label=)
 ![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
@@ -25,17 +61,20 @@ Curious, eager to learn and committed - describe me best. At the moment, sustain
 ![phpMyAdmin](https://img.shields.io/static/v1?style=for-the-badge&message=phpMyAdmin&color=6C78AF&logo=phpMyAdmin&logoColor=FFFFFF&label=)
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 
-## Other
+### Other
 ![iTerm2](https://img.shields.io/static/v1?style=for-the-badge&message=iTerm2&color=000000&logo=iTerm2&logoColor=FFFFFF&label=)
 ![PhpStorm](https://img.shields.io/static/v1?style=for-the-badge&message=PhpStorm&color=000000&logo=PhpStorm&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
 
-## 📈 Übersicht
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inf166&layout=compact&custom_title=Genutzte%20Sprachen)](https://github.com/Inf166/)
-[![Joels's GitHub stats](https://github-readme-stats.vercel.app/api?username=inf166&show_icons=true&hide_title=true&locale=de&hide_rank=true)](https://github.com/Inf166/)
+## 📈 My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inf166&layout=compact)](https://github.com/Inf166/)
+[![Joels's GitHub stats](https://github-readme-stats.vercel.app/api?username=inf166&show_icons=true&hide_title=true&hide_rank=true)](https://github.com/Inf166/)
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="inf166' Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=inf166&bg_color=FFFFFF&color=000&line=2496ED&point=3178C6" /></a>
+<b>Note:</b> Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-## 🔗 Links
+## 🔗 My References
 [![Portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.maispace.de/)
 [![LinkedIn](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jo%C3%ABl-maximilian-mai-18b9991ba/)
 [![Xing](https://img.shields.io/static/v1?style=for-the-badge&message=Xing&color=006567&logo=Xing&logoColor=FFFFFF&label=)](https://www.xing.com/profile/JoelMaximilian_Mai/cv)
@@ -45,3 +84,13 @@ Curious, eager to learn and committed - describe me best. At the moment, sustain
 
 ## 😂 Fun Section
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=joelisda&count=3&width=1000)
+
+
+<p align="center">
+    <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev">
+        <img alt="https://badges.pufler.dev/updated/inf166/inf166?style=for-the-badge&color=yellow"    src="https://badges.pufler.dev/updated/inf166/inf166?style=for-the-badge&color=yellow">
+    </a>
+    <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev">
+        <img alt="https://badges.pufler.dev/created/inf166/inf166?style=for-the-badge&color=green" src="https://badges.pufler.dev/created/inf166/inf166?style=for-the-badge&color=green">
+    </a>
+</p>
