@@ -1,5 +1,6 @@
-<img alt="hello there"  src="assets/images/Hello-there.png">
-
+<p align="center">
+    <img alt="hello there"  src="assets/images/Hello-there.png">
+</p>
 <p align="center">
     <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev">
         <img alt="https://badges.pufler.dev/visits/inf166/inf166?style=for-the-badge&color=blue"  src="https://badges.pufler.dev/visits/inf166/inf166?style=for-the-badge&color=blue">
@@ -68,11 +69,19 @@ Curious, eager to learn and committed - describe me best. At the moment, sustain
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
 
 ## 📈 My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inf166&layout=compact)](https://github.com/Inf166/)
-[![Joels's GitHub stats](https://github-readme-stats.vercel.app/api?username=inf166&show_icons=true&hide_title=true&hide_rank=true)](https://github.com/Inf166/)
+<p>
+    <a href="https://github.com/Inf166/">
+        <img alt="Joels's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inf166&layout=compact" />
+    </a>
+    <a href="https://github.com/Inf166/">
+        <img alt="Joels's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=inf166&show_icons=true&hide_title=true&hide_rank=true" />
+    </a>
+</p>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="inf166' Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=inf166&bg_color=FFFFFF&color=000&line=2496ED&point=3178C6" /></a>
-<b>Note:</b> Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Joels's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=inf166&bg_color=FFFFFF&color=000&line=2496ED&point=3178C6" />
+</a>
+<b>Note:</b> These statistics are created from my public code and doesn't reflect experience or skill level.
 
 ## 🔗 My References
 [![Portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.maispace.de/)
