@@ -25,13 +25,15 @@
 ## 🚀 About me
 Curious, eager to learn and committed - describe me best. At the moment, sustainability, continuous integration and agility keep me most busy. I am a web developer with particular strengths in TYPO3, Javascript, SCSS and most recently PHP. Due to my studies, requirements gathering, user stories, project management and UX and UI design are not foreign words to me - on the contrary - my passion and mission can be found here as well.
 
-## 📘 My Resume [WIP]
+## 📘 My Resume
+<!--
 <p>
     <img src="https://github-readme-linkedin-ebon.vercel.app/experience?username=joel-maximilian-mai" />
 </p>
 <p>
     <img src="https://github-readme-linkedin-ebon.vercel.app/education?username=joel-maximilian-mai" />
 </p>
+-->
 <p>
     <a href="https://github.com/Inf166/curriculum_vitae/raw/main/download/mai_joel_maximilian_curriculum_vitae.pdf" alt="https://github.com/Inf166/curriculum_vitae/raw/main/download/mai_joel_maximilian_curriculum_vitae.pdf">
         <img alt="https://img.shields.io/badge/Download%20my%20Resume%20here-FF0000.svg?logo=adobe&logoColor=white" src="https://img.shields.io/badge/Download%20my%20Resume%20here-FF0000.svg?logo=adobe&logoColor=white">
