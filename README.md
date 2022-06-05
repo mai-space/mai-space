@@ -33,7 +33,7 @@ Curious, eager to learn and committed - describe me best. At the moment, sustain
     <img src="https://github-readme-linkedin-ebon.vercel.app/education?username=joel-maximilian-mai" />
 </p>
 <p>
-    <a href="" alt="">
+    <a href="https://github.com/Inf166/curriculum_vitae/raw/main/download/mai_joel_maximilian_curriculum_vitae.pdf" alt="https://github.com/Inf166/curriculum_vitae/raw/main/download/mai_joel_maximilian_curriculum_vitae.pdf">
         <img alt="https://img.shields.io/badge/Download%20my%20Resume%20here-FF0000.svg?logo=adobe&logoColor=white" src="https://img.shields.io/badge/Download%20my%20Resume%20here-FF0000.svg?logo=adobe&logoColor=white">
     </a>
 </p>
