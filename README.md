@@ -2,9 +2,6 @@
     <img alt="hello there"  src="assets/images/Hello-there.png">
 </p>
 <p align="center">
-    <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev">
-        <img alt="https://badges.pufler.dev/visits/inf166/inf166?style=for-the-badge&color=blue"  src="https://badges.pufler.dev/visits/inf166/inf166?style=for-the-badge&color=blue">
-    </a>
     <a href="https://github.com/inf166?tab=followers">
         <img alt="followers"   title="Follow me on Github"   src="https://custom-icon-badges.herokuapp.com/github/followers/inf166?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
@@ -14,9 +11,6 @@
 </p>
 
 <p align="center">
-    <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev">
-        <img alt="https://badges.pufler.dev/years/inf166?style=for-the-badge&color=yellow"         src="https://badges.pufler.dev/years/inf166?style=for-the-badge&color=yellow">
-    </a>
     <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev">
         <img alt="https://badges.pufler.dev/repos/inf166?style=for-the-badge&color=green"          src="https://badges.pufler.dev/repos/inf166?style=for-the-badge&color=green">
     </a>
@@ -120,13 +114,5 @@ Curious, eager to learn and committed - describe me best. At the moment, sustain
 <p align="center">
     <a href="https://open.spotify.com/show/3aNOxelMznfwRNvrKw8CaH?si=4605873cc64541e6" alt="https://badges.pufler.dev">
         <img alt="https://img.shields.io/badge/Check%20out%20my%20Podcast-1DB954?style=for-the-badge&logo=Spotify&logoColor=white"    src="https://img.shields.io/badge/Check%20out%20my%20Podcast-1DB954?style=for-the-badge&logo=Spotify&logoColor=white">
-    </a>
-</p>
-<p align="center">
-    <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev">
-        <img alt="https://badges.pufler.dev/updated/inf166/inf166?style=for-the-badge&color=yellow"    src="https://badges.pufler.dev/updated/inf166/inf166?style=for-the-badge&color=yellow">
-    </a>
-    <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev">
-        <img alt="https://badges.pufler.dev/created/inf166/inf166?style=for-the-badge&color=green" src="https://badges.pufler.dev/created/inf166/inf166?style=for-the-badge&color=green">
     </a>
 </p>
