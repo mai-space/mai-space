@@ -10,12 +10,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev">
-        <img alt="https://badges.pufler.dev/repos/inf166?style=for-the-badge&color=green"          src="https://badges.pufler.dev/repos/inf166?style=for-the-badge&color=green">
-    </a>
-</p>
-
 ## 🚀 About me
 
 Curious, eager to learn and committed - describe me best. At the moment, sustainability, continuous integration and agility keep me most busy. I am a web developer with particular strengths in TYPO3, Javascript, SCSS and most recently PHP. Due to my studies, requirements gathering, user stories, project management and UX and UI design are not foreign words to me - on the contrary - my passion and mission can be found here as well.
