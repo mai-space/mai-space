@@ -178,11 +178,3 @@ Curious, eager to learn and committed - describe me best. At the moment, sustain
 ## 😂 Fun Section
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=joelisda&count=3&width=1000)
-<p align="center">
-    <a href="https://open.spotify.com/show/3aNOxelMznfwRNvrKw8CaH?si=4605873cc64541e6" alt="https://badges.pufler.dev">
-        <img alt="https://img.shields.io/badge/Check%20out%20my%20Podcast-1DB954?style=for-the-badge&logo=Spotify&logoColor=white"    src="https://img.shields.io/badge/Check%20out%20my%20Podcast-1DB954?style=for-the-badge&logo=Spotify&logoColor=white">
-    </a>
-    <a href="https://discord.gg/s6EENxkr" alt="https://badges.pufler.dev">
-        <img alt="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" src="https://img.shields.io/badge/Join%20My%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-    </a>
-</p>
