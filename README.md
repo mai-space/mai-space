@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/images/100_me.png" alt="BitMoji of me">
+    <img src="assets/images/100_me.png" alt="BitMoji of me" width="240px">
 </p>
 
 <p align="center">
