@@ -161,11 +161,14 @@ Curious, eager to learn and committed - describe me best. At the moment, sustain
         <img alt="Joels's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=inf166&show_icons=true&hide_title=true&hide_rank=true" />
     </a>
 </p>
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Joels's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=inf166&bg_color=FFFFFF&color=000&line=2496ED&point=3178C6" />
-</a>
 <b>Note:</b> These statistics are created from my public code and doesn't reflect experience or skill level.
+
+## 🌍 My open-source Projects
+
+- [Github Action for Deployment on Virtual Hosts](https://github.com/Inf166/action-sshpass-rsync)
+- [Jetbrains Plugin for Commit Message Template with TYPO3 Guidelines](https://github.com/Inf166/plugin-phpstorm-typo3-commit-template)
+- [CLI Tool Cowsay Addition](https://github.com/Inf166/cli-tool-alpacasay)
+- [Jabref Dracula Theme](https://github.com/Inf166/theme-jabref-dracula)
 
 ## 🔗 My References
 
