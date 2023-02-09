@@ -90,7 +90,7 @@ Curious, eager to learn and committed - describe me best. At the moment, sustain
 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Github Actions](https://img.shields.io/badge/GitHub%20Actions-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=whit)
 
@@ -115,7 +115,7 @@ Curious, eager to learn and committed - describe me best. At the moment, sustain
 ![SAFe](https://img.shields.io/badge/Scaled_Agile_Framework-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![UML](https://img.shields.io/static/v1?style=for-the-badge&message=UML-Modellierung&color=F08705&logo=diagrams.net&logoColor=FFFFFF&label=)
 
-## ✨ Future Skills to aquire:
+## ✨ Future Skills to acquire:
 
 1. ![Gitlab Deployment](https://img.shields.io/badge/GitLab%20Inherited%20Deployment-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 2. ![AWS Cloud](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -128,7 +128,7 @@ Curious, eager to learn and committed - describe me best. At the moment, sustain
 ![](https://img.shields.io/badge/Pop_OS!-48B9C7?style=for-the-badge&logo=popos&logoColor=white)
 ![](https://img.shields.io/badge/Windows-Surface_Pro_4-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-#### IDE
+#### IDE's I use
 
 ![PhpStorm](https://img.shields.io/static/v1?style=for-the-badge&message=PhpStorm&color=999999&logo=PhpStorm&logoColor=FFFFFF&label=)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -145,11 +145,11 @@ Curious, eager to learn and committed - describe me best. At the moment, sustain
 ## 🌍 My open-source Projects
 
 - [GitHub Action for Deployment on Virtual Hosts](https://github.com/Inf166/action-sshpass-rsync)
-- [Jetbrains Plugin for Commit Message Template with TYPO3 Guidelines](https://github.com/Inf166/plugin-phpstorm-typo3-commit-template)
+- [JetBrains Plugin for Commit Message Template with TYPO3 Guidelines](https://github.com/Inf166/plugin-phpstorm-typo3-commit-template)
 - [CLI Tool Cowsay Addition](https://github.com/Inf166/cli-tool-alpacasay)
 - [Jabref Dracula Theme](https://github.com/Inf166/theme-jabref-dracula)
 
-## 👨‍💻 You may also like to see a few Snippets
+## 👨‍💻 You may also like to see a few snippets
 
 [![CodePen](https://img.shields.io/static/v1?style=for-the-badge&message=CodePen&color=000000&logo=CodePen&logoColor=FFFFFF&label=)](https://codepen.io/maispace)
 
@@ -159,9 +159,8 @@ Curious, eager to learn and committed - describe me best. At the moment, sustain
 
 ## 📘 My Resume
 
-My Resume is avaible in German and English. Click the Labels below to download the Current one.
-
-They are build with LaTex.
+My Resume is available in German and English. Click the Labels below to download the Current one.
+They are built with LaTex.
 
 <p align="left">
     <a href="https://github.com/Inf166/curriculum_vitae/raw/languages/english/download/mai-joel_maximilian-curriculum_vitae.pdf">
