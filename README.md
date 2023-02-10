@@ -108,7 +108,7 @@ Curious, eager to learn and committed - describe me best. At the moment, sustain
 ![LaTeX](https://img.shields.io/badge/LaTeX-2B579A?style=for-the-badge&logo=latex&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 
-#### Modelling and Projectmanagement
+#### Modelling and project management
 
 ![Miro](https://img.shields.io/static/v1?style=for-the-badge&message=Miro&color=050038&logo=Miro&logoColor=FFFFFF&label=)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
@@ -147,7 +147,7 @@ Curious, eager to learn and committed - describe me best. At the moment, sustain
 - [GitHub Action for Deployment on Virtual Hosts](https://github.com/Inf166/action-sshpass-rsync)
 - [JetBrains Plugin for Commit Message Template with TYPO3 Guidelines](https://github.com/Inf166/plugin-phpstorm-typo3-commit-template)
 - [CLI Tool Cowsay Addition](https://github.com/Inf166/cli-tool-alpacasay)
-- [Jabref Dracula Theme](https://github.com/Inf166/theme-jabref-dracula)
+- [JabRef Dracula Theme](https://github.com/Inf166/theme-jabref-dracula)
 
 ## 👨‍💻 You may also like to see a few snippets
 
@@ -159,7 +159,7 @@ Curious, eager to learn and committed - describe me best. At the moment, sustain
 
 ## 📘 My Resume
 
-My Resume is available in German and English. Click the Labels below to download the Current one.
+My resume is available in German and English. Click the labels below to download the current one.
 They are built with LaTeX.
 
 <p align="left">
