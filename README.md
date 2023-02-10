@@ -105,7 +105,7 @@ Curious, eager to learn and committed - describe me best. At the moment, sustain
 ![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
 ![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![LaTex](https://img.shields.io/badge/LaTex-2B579A?style=for-the-badge&logo=latex&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-2B579A?style=for-the-badge&logo=latex&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 
 #### Modelling and Projectmanagement
@@ -160,7 +160,7 @@ Curious, eager to learn and committed - describe me best. At the moment, sustain
 ## 📘 My Resume
 
 My Resume is available in German and English. Click the Labels below to download the Current one.
-They are built with LaTex.
+They are built with LaTeX.
 
 <p align="left">
     <a href="https://github.com/Inf166/curriculum_vitae/raw/languages/english/download/mai-joel_maximilian-curriculum_vitae.pdf">
