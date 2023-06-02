@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/inf166?tab=followers">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/inf166?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+    <a href="https://github.com/mai-space?tab=followers">
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/mai-space?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
     </a>
-    <a href="https://github.com/inf166?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Starred&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/inf166"/>
+    <a href="https://github.com/mai-space?tab=repositories&sort=stargazers">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Starred&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mai-space"/>
     </a>
 </p>
 
@@ -144,10 +144,10 @@ Curious, eager to learn and committed - describe me best. At the moment, sustain
 
 ## 🌍 My open-source Projects
 
-- [GitHub Action for Deployment on Virtual Hosts](https://github.com/Inf166/action-sshpass-rsync)
-- [JetBrains Plugin for Commit Message Template with TYPO3 Guidelines](https://github.com/Inf166/plugin-phpstorm-typo3-commit-template)
-- [CLI Tool Cowsay Addition](https://github.com/Inf166/cli-tool-alpacasay)
-- [JabRef Dracula Theme](https://github.com/Inf166/theme-jabref-dracula)
+- [GitHub Action for Deployment on Virtual Hosts](https://github.com/mai-space/action-sshpass-rsync)
+- [JetBrains Plugin for Commit Message Template with TYPO3 Guidelines](https://github.com/mai-space/plugin-phpstorm-typo3-commit-template)
+- [CLI Tool Cowsay Addition](https://github.com/mai-space/cli-tool-alpacasay)
+- [JabRef Dracula Theme](https://github.com/mai-space/theme-jabref-dracula)
 
 ## 👨‍💻 You may also like to see a few snippets
 
@@ -163,10 +163,10 @@ My resume is available in German and English. Click the labels below to download
 They are built with LaTeX.
 
 <p align="left">
-    <a href="https://github.com/Inf166/curriculum_vitae/raw/languages/english/download/mai-joel_maximilian-curriculum_vitae.pdf">
+    <a href="https://github.com/mai-space/curriculum_vitae/raw/languages/english/download/mai-joel_maximilian-curriculum_vitae.pdf">
         <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/English-%2307F.svg?style=for-the-badge&logo=GitHub&logoColor=white)"/>
     </a>
-    <a href="https://github.com/Inf166/curriculum_vitae/raw/languages/german/download/mai-joel_maximilian-curriculum_vitae.pdf">
+    <a href="https://github.com/mai-space/curriculum_vitae/raw/languages/german/download/mai-joel_maximilian-curriculum_vitae.pdf">
         <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/German-%23FF0.svg?style=for-the-badge&logo=GitHub&logoColor=black"/>
     </a>
 </p>
