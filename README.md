@@ -17,9 +17,28 @@
 
 Curious, eager to learn and committed - describe me best. At the moment, sustainability, continuous integration and agility keep me most busy. I am a web developer with particular strengths in TYPO3, Javascript, SCSS and most recently PHP. Due to my studies, requirements gathering, user stories, project management and UX and UI design are not foreign words to me - on the contrary - my passion and mission can be found here as well.
 
+## 📘 My Resume
+
+My resume is available in German and English. Click the labels below to download the current one.
+They are built with LaTeX.
+
+<p align="left">
+    <a href="https://github.com/mai-space/curriculum_vitae/releases">
+        <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/Downloads-%23FF0.svg?style=for-the-badge&logo=GitHub&logoColor=black"/>
+    </a>
+</p>
+
 ## 🛠️ My Skills
 
-### My current tech-stack
+![TYPO3](https://img.shields.io/static/v1?style=for-the-badge&message=TYPO3&color=FF8700&logo=TYPO3&logoColor=white&label=)
+![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=00749c&logo=WordPress&logoColor=white&label=)
+![Symfony](https://img.shields.io/static/v1?style=for-the-badge&message=Symfony&color=787cb5&logo=Symfony&logoColor=white&label=)
+![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=4584b6&logo=Python&logoColor=ffde57&label=)
+[![CodePen](https://img.shields.io/static/v1?style=for-the-badge&message=CodePen&color=000000&logo=CodePen&logoColor=FFFFFF&label=)](https://codepen.io/maispace)
+
+<details>
+<summary>My current tech-stack</summary>
 
 #### Frontend Tools
 
@@ -50,11 +69,6 @@ Curious, eager to learn and committed - describe me best. At the moment, sustain
 
 ![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket%20Pipelines-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
----
-
-<details>
-<summary>Additional acquired skills...</summary>
 
 #### Programming Languages
 
@@ -114,13 +128,13 @@ Curious, eager to learn and committed - describe me best. At the moment, sustain
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![SAFe](https://img.shields.io/badge/Scaled_Agile_Framework-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![UML](https://img.shields.io/static/v1?style=for-the-badge&message=UML-Modellierung&color=F08705&logo=diagrams.net&logoColor=FFFFFF&label=)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ## ✨ Future Skills to acquire:
 
 1. ![Gitlab Deployment](https://img.shields.io/badge/GitLab%20Inherited%20Deployment-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 2. ![AWS Cloud](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-3. ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-4. ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+3. ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 ## ⚙️ My Gear
 
@@ -149,31 +163,13 @@ Curious, eager to learn and committed - describe me best. At the moment, sustain
 - [CLI Tool Cowsay Addition](https://github.com/mai-space/cli-tool-alpacasay)
 - [JabRef Dracula Theme](https://github.com/mai-space/theme-jabref-dracula)
 
-## 👨‍💻 You may also like to see a few snippets
-
-[![CodePen](https://img.shields.io/static/v1?style=for-the-badge&message=CodePen&color=000000&logo=CodePen&logoColor=FFFFFF&label=)](https://codepen.io/maispace)
-
 ## 🎧 Music I have recently listened to
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=joelisda&count=3&width=1000)
-
-## 📘 My Resume
-
-My resume is available in German and English. Click the labels below to download the current one.
-They are built with LaTeX.
-
-<p align="left">
-    <a href="https://github.com/mai-space/curriculum_vitae/raw/languages/english/download/mai-joel_maximilian-curriculum_vitae.pdf">
-        <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/English-%2307F.svg?style=for-the-badge&logo=GitHub&logoColor=white)"/>
-    </a>
-    <a href="https://github.com/mai-space/curriculum_vitae/raw/languages/german/download/mai-joel_maximilian-curriculum_vitae.pdf">
-        <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/German-%23FF0.svg?style=for-the-badge&logo=GitHub&logoColor=black"/>
-    </a>
-</p>
 
 ## 🔗 Let's get in touch
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MaispaceDe)
 [![LinkedIn](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jo%C3%ABl-maximilian-mai-18b9991ba/)
 [![Xing](https://img.shields.io/static/v1?style=for-the-badge&message=Xing&color=006567&logo=Xing&logoColor=FFFFFF&label=)](https://www.xing.com/profile/JoelMaximilian_Mai/cv)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:joel@maispace.de)
+[![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:joel@maispace.de)
