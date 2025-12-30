@@ -15,11 +15,47 @@ matplotlib.use('Agg')  # Non-interactive backend
 import matplotlib.pyplot as plt
 from io import BytesIO
 import base64
+import random
 
 # Configuration
 GITHUB_USERNAME = "mai-space"
 README_PATH = "README.md"
 STATS_IMAGE_PATH = "assets/images/stats.svg"
+
+
+def generate_activity_indicator() -> str:
+    """Generate an activity indicator based on time of day (UTC)"""
+    current_hour = datetime.now(timezone.utc).hour
+    
+    if 6 <= current_hour < 12:
+        return "🌅 Morning coding session"
+    elif 12 <= current_hour < 18:
+        return "☀️ Afternoon development"
+    elif 18 <= current_hour < 22:
+        return "🌆 Evening productivity"
+    else:
+        return "🌙 Night owl coding"
+
+
+def get_dev_quote() -> str:
+    """Get an inspiring developer quote"""
+    quotes = [
+        ("Code is like humor. When you have to explain it, it's bad.", "Cory House"),
+        ("First, solve the problem. Then, write the code.", "John Johnson"),
+        ("Experience is the name everyone gives to their mistakes.", "Oscar Wilde"),
+        ("In order to be irreplaceable, one must always be different.", "Coco Chanel"),
+        ("Java is to JavaScript what car is to Carpet.", "Chris Heilmann"),
+        ("Knowledge is power.", "Francis Bacon"),
+        ("Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.", "Dan Salomon"),
+        ("Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.", "Antoine de Saint-Exupery"),
+        ("Code never lies, comments sometimes do.", "Ron Jeffries"),
+        ("Simplicity is the soul of efficiency.", "Austin Freeman"),
+        ("Make it work, make it right, make it fast.", "Kent Beck"),
+        ("Clean code always looks like it was written by someone who cares.", "Robert C. Martin"),
+    ]
+    
+    quote, author = random.choice(quotes)
+    return f'"{quote}" — {author}'
 
 
 def get_github_stats(token: str) -> Dict:
@@ -158,6 +194,8 @@ def update_readme(stats: Dict):
         # Generate dynamic sections
         stats_card_svg = generate_stats_card(stats)
         language_chart_svg = generate_language_chart(stats.get('languages', {}))
+        dev_quote = get_dev_quote()
+        activity_indicator = generate_activity_indicator()
         
         # Save SVG files
         os.makedirs('assets/images', exist_ok=True)
@@ -212,9 +250,17 @@ def update_readme(stats: Dict):
 
 </div>
 
+### 💡 Dev Quote of the Update
+
+<div align="center">
+
+*{dev_quote}*
+
+</div>
+
 ---
 
-**🤖 Last auto-update:** {timestamp}
+**{activity_indicator}** | **🤖 Last auto-update:** {timestamp}
 
 {end_marker}'''
         
