@@ -9,6 +9,9 @@
     <a href="https://github.com/mai-space?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Starred&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mai-space"/>
     </a>
+    <a href="https://github.com/mai-space/mai-space/actions/workflows/update-readme.yml">
+        <img alt="Profile Update" title="Automated Profile Updates" src="https://img.shields.io/github/actions/workflow/status/mai-space/mai-space/update-readme.yml?branch=main&label=Profile%20Update&style=for-the-badge&logo=github-actions&logoColor=white"/>
+    </a>
 </p>
 
 ---
@@ -200,13 +203,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code." — John Johnson*
+*"In order to be irreplaceable, one must always be different." — Coco Chanel*
 
 </div>
 
 ---
 
-**🌙 Night owl coding** | **🤖 Last auto-update:** December 30, 2025 at 00:14 UTC
+**🌙 Night owl coding** | **🤖 Last auto-update:** December 30, 2025 at 00:17 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
