@@ -203,13 +203,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
+*"Simplicity is the soul of efficiency." — Austin Freeman*
 
 </div>
 
 ---
 
-**🌙 Night owl coding** | **🤖 Last auto-update:** December 30, 2025 at 00:19 UTC
+**🌙 Night owl coding** | **🤖 Last auto-update:** December 30, 2025 at 00:35 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
