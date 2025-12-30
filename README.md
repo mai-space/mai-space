@@ -156,6 +156,52 @@ They are built with LaTeX.
 
 ---
 
+<!-- DYNAMIC_CONTENT_START -->
+
+## 📈 Dynamic Statistics
+
+<div align="center">
+
+![GitHub Stats](assets/images/stats_card.svg)
+
+</div>
+
+### 💻 Language Usage This Year
+
+<div align="center">
+
+![Language Stats](assets/images/language_chart.svg)
+
+</div>
+
+### 📊 Contribution Metrics
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mai-space&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+</div>
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mai-space&theme=github-compact&hide_border=true&area=true)
+
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=mai-space&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+---
+
+**🤖 Last auto-update:** December 30, 2025 at 00:11 UTC
+
+<!-- DYNAMIC_CONTENT_END -->
+
 ## 🌍 My open-source Projects
 
 - [GitHub Action for Deployment on Virtual Hosts](https://github.com/mai-space/action-sshpass-rsync)
