@@ -10,11 +10,6 @@ from datetime import datetime, timezone
 from typing import Dict, List
 import requests
 from github import Github
-import matplotlib
-matplotlib.use('Agg')  # Non-interactive backend
-import matplotlib.pyplot as plt
-from io import BytesIO
-import base64
 import random
 
 # Configuration
@@ -84,9 +79,10 @@ def get_github_stats(token: str) -> Dict:
         recent_commits = 0
         for repo in repos[:10]:  # Check last 10 repos
             try:
-                commits = repo.get_commits(author=user, since=datetime.now().replace(day=1))
+                commits = repo.get_commits(author=user, since=datetime.now(timezone.utc).replace(day=1))
                 recent_commits += commits.totalCount
-            except:
+            except Exception:
+                # Skip repos where we can't get commits (permissions, empty repo, etc.)
                 pass
         
         return {
