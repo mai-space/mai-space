@@ -1,4 +1,2 @@
 requests==2.31.0
 PyGithub==2.1.1
-matplotlib==3.8.2
-Pillow==10.1.0
