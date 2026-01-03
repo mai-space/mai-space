@@ -203,13 +203,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"Knowledge is power." — Francis Bacon*
+*"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
 
 </div>
 
 ---
 
-**🌆 Evening productivity** | **🤖 Last auto-update:** January 02, 2026 at 20:05 UTC
+**🌙 Night owl coding** | **🤖 Last auto-update:** January 03, 2026 at 00:17 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
