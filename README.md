@@ -203,13 +203,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code." — John Johnson*
+*"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code." — Dan Salomon*
 
 </div>
 
 ---
 
-**🌆 Evening productivity** | **🤖 Last auto-update:** January 11, 2026 at 20:05 UTC
+**🌙 Night owl coding** | **🤖 Last auto-update:** January 12, 2026 at 00:19 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
