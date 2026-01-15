@@ -203,13 +203,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"Make it work, make it right, make it fast." — Kent Beck*
+*"Code is like humor. When you have to explain it, it's bad." — Cory House*
 
 </div>
 
 ---
 
-**🌙 Night owl coding** | **🤖 Last auto-update:** January 15, 2026 at 04:20 UTC
+**🌅 Morning coding session** | **🤖 Last auto-update:** January 15, 2026 at 08:06 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
