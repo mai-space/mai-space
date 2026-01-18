@@ -203,13 +203,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away." — Antoine de Saint-Exupery*
+*"Make it work, make it right, make it fast." — Kent Beck*
 
 </div>
 
 ---
 
-**🌅 Morning coding session** | **🤖 Last auto-update:** January 18, 2026 at 08:05 UTC
+**☀️ Afternoon development** | **🤖 Last auto-update:** January 18, 2026 at 12:07 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
