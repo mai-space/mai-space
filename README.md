@@ -203,13 +203,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code." — John Johnson*
+*"Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away." — Antoine de Saint-Exupery*
 
 </div>
 
 ---
 
-**🌙 Night owl coding** | **🤖 Last auto-update:** January 18, 2026 at 04:19 UTC
+**🌅 Morning coding session** | **🤖 Last auto-update:** January 18, 2026 at 08:05 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
