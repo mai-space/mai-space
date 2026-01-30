@@ -203,13 +203,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"Code never lies, comments sometimes do." — Ron Jeffries*
+*"Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away." — Antoine de Saint-Exupery*
 
 </div>
 
 ---
 
-**🌙 Night owl coding** | **🤖 Last auto-update:** January 30, 2026 at 00:21 UTC
+**🌙 Night owl coding** | **🤖 Last auto-update:** January 30, 2026 at 04:33 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
