@@ -203,13 +203,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"Experience is the name everyone gives to their mistakes." — Oscar Wilde*
+*"Make it work, make it right, make it fast." — Kent Beck*
 
 </div>
 
 ---
 
-**🌆 Evening productivity** | **🤖 Last auto-update:** February 12, 2026 at 20:10 UTC
+**🌙 Night owl coding** | **🤖 Last auto-update:** February 13, 2026 at 00:24 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
