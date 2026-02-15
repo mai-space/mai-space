@@ -5,27 +5,27 @@
     .percentage { font: 11px sans-serif; fill: #666; }
   </style>
   <text x="5" y="20" class="lang-name">C</text>
-  <rect x="90" y="8" width="81.19607156171817" height="18" class="lang-bar" rx="3"/>
-  <text x="450" y="20" class="percentage">23.2%</text>
+  <rect x="90" y="8" width="80.28515404669591" height="18" class="lang-bar" rx="3"/>
+  <text x="450" y="20" class="percentage">22.9%</text>
   <text x="5" y="43" class="lang-name">TeX</text>
-  <rect x="90" y="31" width="60.43039441592217" height="18" class="lang-bar" rx="3"/>
-  <text x="450" y="43" class="percentage">17.3%</text>
+  <rect x="90" y="31" width="59.7524416079304" height="18" class="lang-bar" rx="3"/>
+  <text x="450" y="43" class="percentage">17.1%</text>
   <text x="5" y="66" class="lang-name">JavaScript</text>
-  <rect x="90" y="54" width="47.62220784879151" height="18" class="lang-bar" rx="3"/>
-  <text x="450" y="66" class="percentage">13.6%</text>
+  <rect x="90" y="54" width="49.66568069675207" height="18" class="lang-bar" rx="3"/>
+  <text x="450" y="66" class="percentage">14.2%</text>
   <text x="5" y="89" class="lang-name">Rust</text>
-  <rect x="90" y="77" width="34.77393288506196" height="18" class="lang-bar" rx="3"/>
-  <text x="450" y="89" class="percentage">9.9%</text>
+  <rect x="90" y="77" width="34.38381321643817" height="18" class="lang-bar" rx="3"/>
+  <text x="450" y="89" class="percentage">9.8%</text>
   <text x="5" y="112" class="lang-name">Handlebars</text>
-  <rect x="90" y="100" width="33.39913669581778" height="18" class="lang-bar" rx="3"/>
-  <text x="450" y="112" class="percentage">9.5%</text>
+  <rect x="90" y="100" width="33.024440506486535" height="18" class="lang-bar" rx="3"/>
+  <text x="450" y="112" class="percentage">9.4%</text>
   <text x="5" y="135" class="lang-name">HTML</text>
-  <rect x="90" y="123" width="30.31962916548759" height="18" class="lang-bar" rx="3"/>
-  <text x="450" y="135" class="percentage">8.7%</text>
+  <rect x="90" y="123" width="30.03410922947783" height="18" class="lang-bar" rx="3"/>
+  <text x="450" y="135" class="percentage">8.6%</text>
   <text x="5" y="158" class="lang-name">Vue</text>
-  <rect x="90" y="146" width="20.989251368844695" height="18" class="lang-bar" rx="3"/>
-  <text x="450" y="158" class="percentage">6.0%</text>
+  <rect x="90" y="146" width="20.753778441012795" height="18" class="lang-bar" rx="3"/>
+  <text x="450" y="158" class="percentage">5.9%</text>
   <text x="5" y="181" class="lang-name">Kotlin</text>
-  <rect x="90" y="169" width="11.791603221445158" height="18" class="lang-bar" rx="3"/>
-  <text x="450" y="181" class="percentage">3.4%</text>
+  <rect x="90" y="169" width="11.659316305366431" height="18" class="lang-bar" rx="3"/>
+  <text x="450" y="181" class="percentage">3.3%</text>
 </svg>
