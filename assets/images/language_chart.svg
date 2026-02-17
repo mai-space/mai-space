@@ -1,0 +1,31 @@
+<svg width="500" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .lang-name { font: 12px sans-serif; fill: #666; }
+    .lang-bar { fill: #58a6ff; }
+    .percentage { font: 11px sans-serif; fill: #666; }
+  </style>
+  <text x="5" y="20" class="lang-name">C</text>
+  <rect x="90" y="8" width="80.05873512127425" height="18" class="lang-bar" rx="3"/>
+  <text x="450" y="20" class="percentage">22.9%</text>
+  <text x="5" y="43" class="lang-name">TeX</text>
+  <rect x="90" y="31" width="59.58392871434712" height="18" class="lang-bar" rx="3"/>
+  <text x="450" y="43" class="percentage">17.0%</text>
+  <text x="5" y="66" class="lang-name">JavaScript</text>
+  <rect x="90" y="54" width="50.295336399103995" height="18" class="lang-bar" rx="3"/>
+  <text x="450" y="66" class="percentage">14.4%</text>
+  <text x="5" y="89" class="lang-name">Rust</text>
+  <rect x="90" y="77" width="34.286844528605336" height="18" class="lang-bar" rx="3"/>
+  <text x="450" y="89" class="percentage">9.8%</text>
+  <text x="5" y="112" class="lang-name">Handlebars</text>
+  <rect x="90" y="100" width="32.931305500134286" height="18" class="lang-bar" rx="3"/>
+  <text x="450" y="112" class="percentage">9.4%</text>
+  <text x="5" y="135" class="lang-name">HTML</text>
+  <rect x="90" y="123" width="29.949407508238327" height="18" class="lang-bar" rx="3"/>
+  <text x="450" y="135" class="percentage">8.6%</text>
+  <text x="5" y="158" class="lang-name">Vue</text>
+  <rect x="90" y="146" width="20.695248962320882" height="18" class="lang-bar" rx="3"/>
+  <text x="450" y="158" class="percentage">5.9%</text>
+  <text x="5" y="181" class="lang-name">Kotlin</text>
+  <rect x="90" y="169" width="11.626434885378414" height="18" class="lang-bar" rx="3"/>
+  <text x="450" y="181" class="percentage">3.3%</text>
+</svg>
