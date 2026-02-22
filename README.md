@@ -22,8 +22,7 @@ Curious, eager to learn and committed - describe me best. At the moment, sustain
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [TYPO3 vs. WordPress: Wann welches CMS?](https://maispace-demo.vercel.app/artikel/typo3-vs-wordpress) — 10. February 2025
+<!-- BLOG-POST-LIST:START -->- [TYPO3 vs. WordPress: Wann welches CMS?](https://maispace-demo.vercel.app/artikel/typo3-vs-wordpress) — 10. February 2025
 - [Software-Architektur für Entwickler: Die wichtigsten Grundprinzipien](https://maispace-demo.vercel.app/artikel/software-architektur-fuer-entwickler) — 20. January 2025
 <!-- BLOG-POST-LIST:END -->
 
