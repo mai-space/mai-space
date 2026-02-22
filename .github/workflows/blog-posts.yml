@@ -1,0 +1,26 @@
+name: Update Blog Posts in README
+
+on:
+  schedule:
+    # Run every day at 08:00 UTC
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://maispace.de/feed/"
+          max_post_count: 5
+          date_format: "%d. %B %Y"
+          template: "$title — $date"
+          commit_message: "🤖 Update blog posts [skip ci]"
