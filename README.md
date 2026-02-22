@@ -22,8 +22,7 @@ Curious, eager to learn and committed - describe me best. At the moment, sustain
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->TYPO3 vs. WordPress: Wann welches CMS? — DD. 0000 YYYYSoftware-Architektur für Entwickler: Die wichtigsten Grundprinzipien — DD. 0000 YYYY<!-- BLOG-POST-LIST:END -->
 
 ## 📘 My Resume
 
