@@ -20,6 +20,11 @@
 
 Curious, eager to learn and committed - describe me best. At the moment, sustainability, continuous integration and agility keep me most busy. I am a web developer with particular strengths in TYPO3, Javascript, SCSS and most recently PHP. Due to my studies, requirements gathering, user stories, project management and UX and UI design are not foreign words to me - on the contrary - my passion and mission can be found here as well.
 
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 📘 My Resume
 
 My resume is available in German and English. Click the labels below to download the current one.
