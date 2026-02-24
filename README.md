@@ -209,13 +209,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"Make it work, make it right, make it fast." — Kent Beck*
+*"Experience is the name everyone gives to their mistakes." — Oscar Wilde*
 
 </div>
 
 ---
 
-**🌅 Morning coding session** | **🤖 Last auto-update:** February 24, 2026 at 08:15 UTC
+**☀️ Afternoon development** | **🤖 Last auto-update:** February 24, 2026 at 12:15 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
