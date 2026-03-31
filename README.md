@@ -209,13 +209,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code." — Dan Salomon*
+*"Experience is the name everyone gives to their mistakes." — Oscar Wilde*
 
 </div>
 
 ---
 
-**🌆 Evening productivity** | **🤖 Last auto-update:** March 30, 2026 at 20:14 UTC
+**🌙 Night owl coding** | **🤖 Last auto-update:** March 31, 2026 at 00:26 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
