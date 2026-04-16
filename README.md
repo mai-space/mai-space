@@ -209,13 +209,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code." — John Johnson*
+*"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
 
 </div>
 
 ---
 
-**🌙 Night owl coding** | **🤖 Last auto-update:** April 16, 2026 at 00:32 UTC
+**🌙 Night owl coding** | **🤖 Last auto-update:** April 16, 2026 at 05:01 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
