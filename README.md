@@ -209,13 +209,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code." — Dan Salomon*
+*"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
 
 </div>
 
 ---
 
-**☀️ Afternoon development** | **🤖 Last auto-update:** April 25, 2026 at 16:13 UTC
+**🌆 Evening productivity** | **🤖 Last auto-update:** April 25, 2026 at 20:12 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
