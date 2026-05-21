@@ -209,13 +209,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"Experience is the name everyone gives to their mistakes." — Oscar Wilde*
+*"Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away." — Antoine de Saint-Exupery*
 
 </div>
 
 ---
 
-**🌆 Evening productivity** | **🤖 Last auto-update:** May 20, 2026 at 20:43 UTC
+**🌙 Night owl coding** | **🤖 Last auto-update:** May 21, 2026 at 00:43 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
