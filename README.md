@@ -209,13 +209,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"Simplicity is the soul of efficiency." — Austin Freeman*
+*"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code." — Dan Salomon*
 
 </div>
 
 ---
 
-**🌆 Evening productivity** | **🤖 Last auto-update:** May 22, 2026 at 20:33 UTC
+**🌙 Night owl coding** | **🤖 Last auto-update:** May 23, 2026 at 00:40 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
