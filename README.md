@@ -209,13 +209,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"Knowledge is power." — Francis Bacon*
+*"Make it work, make it right, make it fast." — Kent Beck*
 
 </div>
 
 ---
 
-**🌆 Evening productivity** | **🤖 Last auto-update:** June 21, 2026 at 20:32 UTC
+**🌙 Night owl coding** | **🤖 Last auto-update:** June 22, 2026 at 00:49 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
