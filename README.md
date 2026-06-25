@@ -209,13 +209,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"Simplicity is the soul of efficiency." — Austin Freeman*
+*"Experience is the name everyone gives to their mistakes." — Oscar Wilde*
 
 </div>
 
 ---
 
-**🌆 Evening productivity** | **🤖 Last auto-update:** June 24, 2026 at 20:35 UTC
+**🌙 Night owl coding** | **🤖 Last auto-update:** June 25, 2026 at 00:44 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
