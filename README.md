@@ -209,13 +209,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"Make it work, make it right, make it fast." — Kent Beck*
+*"Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away." — Antoine de Saint-Exupery*
 
 </div>
 
 ---
 
-**🌙 Night owl coding** | **🤖 Last auto-update:** August 13, 2026 at 00:21 UTC
+**🌙 Night owl coding** | **🤖 Last auto-update:** August 13, 2026 at 04:36 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
