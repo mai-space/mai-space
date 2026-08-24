@@ -209,13 +209,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"Experience is the name everyone gives to their mistakes." — Oscar Wilde*
+*"Code is like humor. When you have to explain it, it's bad." — Cory House*
 
 </div>
 
 ---
 
-**🌆 Evening productivity** | **🤖 Last auto-update:** August 23, 2026 at 20:03 UTC
+**🌙 Night owl coding** | **🤖 Last auto-update:** August 24, 2026 at 00:11 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
