@@ -209,13 +209,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"Code never lies, comments sometimes do." — Ron Jeffries*
+*"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code." — Dan Salomon*
 
 </div>
 
 ---
 
-**🌆 Evening productivity** | **🤖 Last auto-update:** August 28, 2026 at 21:56 UTC
+**🌙 Night owl coding** | **🤖 Last auto-update:** August 29, 2026 at 00:21 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
