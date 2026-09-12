@@ -209,13 +209,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"Make it work, make it right, make it fast." — Kent Beck*
+*"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
 
 </div>
 
 ---
 
-**🌅 Morning coding session** | **🤖 Last auto-update:** September 12, 2026 at 08:19 UTC
+**☀️ Afternoon development** | **🤖 Last auto-update:** September 12, 2026 at 14:54 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
