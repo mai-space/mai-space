@@ -209,13 +209,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away." — Antoine de Saint-Exupery*
+*"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
 
 </div>
 
 ---
 
-**🌆 Evening productivity** | **🤖 Last auto-update:** September 12, 2026 at 21:54 UTC
+**🌙 Night owl coding** | **🤖 Last auto-update:** September 13, 2026 at 02:53 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
