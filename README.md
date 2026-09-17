@@ -209,13 +209,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
+*"Make it work, make it right, make it fast." — Kent Beck*
 
 </div>
 
 ---
 
-**🌙 Night owl coding** | **🤖 Last auto-update:** September 16, 2026 at 22:36 UTC
+**🌙 Night owl coding** | **🤖 Last auto-update:** September 17, 2026 at 03:09 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
