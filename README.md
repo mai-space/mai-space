@@ -209,13 +209,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"Knowledge is power." — Francis Bacon*
+*"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
 
 </div>
 
 ---
 
-**🌙 Night owl coding** | **🤖 Last auto-update:** October 14, 2026 at 22:56 UTC
+**🌙 Night owl coding** | **🤖 Last auto-update:** October 15, 2026 at 02:58 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
