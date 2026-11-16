@@ -209,13 +209,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"Java is to JavaScript what car is to Carpet." — Chris Heilmann*
+*"Make it work, make it right, make it fast." — Kent Beck*
 
 </div>
 
 ---
 
-**🌆 Evening productivity** | **🤖 Last auto-update:** November 15, 2026 at 20:45 UTC
+**🌙 Night owl coding** | **🤖 Last auto-update:** November 16, 2026 at 04:31 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
