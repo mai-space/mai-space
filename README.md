@@ -209,13 +209,13 @@ They are built with LaTeX.
 
 <div align="center">
 
-*"Simplicity is the soul of efficiency." — Austin Freeman*
+*"Make it work, make it right, make it fast." — Kent Beck*
 
 </div>
 
 ---
 
-**🌆 Evening productivity** | **🤖 Last auto-update:** November 21, 2026 at 21:25 UTC
+**🌙 Night owl coding** | **🤖 Last auto-update:** November 22, 2026 at 04:50 UTC
 
 <!-- DYNAMIC_CONTENT_END -->
 
